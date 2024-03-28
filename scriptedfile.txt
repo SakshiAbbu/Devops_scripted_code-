@@ -7,7 +7,7 @@ stage('Test')
 {
 echo "Test done..."
 }
-stage(''Deploy)
+stage('Deploy')
 {
 echo "Deploy done..."
 }
